@@ -17,6 +17,7 @@ gr1 = greenlet(fun1)
 gr2 = greenlet(fun2)
 gr1.switch()
 gr2.switch()
+print('修改过得')
 
 
 
