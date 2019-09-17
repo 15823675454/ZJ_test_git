@@ -11,5 +11,6 @@ rs, ws, xs = select([s], [], [], 3)
 print('rlist:', rs)
 print('wlist:', ws)
 print('xlist', xs)
+print('nice hahahahaha')
 
 
